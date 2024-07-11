@@ -124,7 +124,7 @@ header .navigation a:hover{
     background-size: 50%;
     background-position: right;
     margin: 50px;
-   
+   margin-top: 130px;
 }
 
 #secondsection h1{
@@ -156,7 +156,7 @@ header .navigation a:hover{
 .image2{
     float:left;
     width:40%;
-    height: 300px;
+    height: 450px;
 } 
 
 .writing2{
